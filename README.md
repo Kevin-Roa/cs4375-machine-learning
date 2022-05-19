@@ -1,1 +1,27 @@
-# cs4375-machine-learning
+# CS4375 - Intro to Machine Learning
+Covered the following topics:
+- Dimensionality reduction
+  - PCA (Principal Component Analysis)
+  - LDA (Linear Discriminative Analysis)
+  - t-SNE (t-Stochastic Neighbor Embedding)
+- Supervised Learning
+  - Linear Regression
+  - Logistic regression
+  - SVMs & kernel methods
+  - LDA
+- Unsupervised Learning
+  - Clustering
+    - k-means
+    - Gaussian mixture models
+  - PCA
+- Parameter estimation
+  - Maximum likelihood estimation (MLE)
+  - Expectation maximization (EM)
+- Optimization
+  - Gradient Descent/Stochastic Gradient Descent
+  - Momentum
+  - AdaGrad
+  - RMSProp
+  - Adam
+- Neural networks
+- Reinforcement Learning
